@@ -1,0 +1,1 @@
+To run the code in the files in this repository first download the data file from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip. Unzip it and put the data (.txt) file in your working directory
